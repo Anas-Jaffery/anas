@@ -1,0 +1,28 @@
+    <div class="container">
+
+    <form class="well form-horizontal" action=" " method="post"  id="contact_form">
+<fieldset>
+
+<!-- Form Name -->
+<legend><center><h2><b>Registration Form</b></h2></center></legend><br>
+
+<!-- Text input-->
+
+<div class="form-group">
+  <label class="col-md-4 control-label">Select your source</label>  
+  <div class="col-md-4 inputGroupContainer">
+  <div class="input-group">
+  <input  name="Source" placeholder="Source" class="form-control"  type="text">
+    </div>
+  </div>
+</div>
+
+<!-- Text input-->
+
+<div class="form-group">
+  <label class="col-md-4 control-label" >Provide a name for Pipeline</label> 
+    <div class="col-md-4 inputGroupContainer">
+    <div class="input-group">
+    <input name="eg cust_shop_energy_gateway001" placeholder="eg,cust_shop_energy_gateway001" class="form-control"  type="text">
+    </div>
+  </div>
